@@ -1,0 +1,6 @@
+requests~=2.32.3
+locust~=2.32.8
+pyyaml~=6.0.2
+pycryptodome
+colorama~=0.4.6
+locust-plugins
